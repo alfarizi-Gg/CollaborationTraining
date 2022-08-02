@@ -1,2 +1,2 @@
 # CollaborationTraining
-PERHATIAN BUAT PARA ANGGOTA, JIKA ERROR BIARIN AJA, SCREENSHOT APA ADANYA AJA. TETAP SEMANGAT . SALAM DARI KOST PAK HERI :)
+tetep sambat jangan semangat ttd fariz
