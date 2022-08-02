@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: Secular One ,sans-serif;
+}
+.main {
+	width: 100%;
+	height: 100vh;
+	background-image: url(../image/background.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.navbar {
+	font-family: Quantico ,sans-serif;
+	width: 85%;
+	margin:  auto;
+	padding: 10px 0px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.navbar ul li {
+	list-style: none;
+	display: inline-block;
+	margin:  0px 30px;
+	position: relative;
+}
+.navbar ul li a {
+	color:  white;
+	text-transform: uppercase;
+}
+.navbar ul li:hover::after {
+	width: 100%;
+}
+.logo img {
+	width: 120px;
+	height: auto;
+	padding-top: 50px;
+	cursor: pointer;
+}
+.konten{
+	font-family: Quantico ,sans-serif;
+	color: aliceblue;
+	width: 85%;
+	margin:  auto;
+	padding: 20px 0px;
+	align-items: center;
+	justify-content: space-between;
+}
+.konten img{
+	width: 60%;
+	border-radius: 50%;
+	transition: background 0.5s;
+	margin-left: 55px;
+}
+.konten tr td h4{
+	text-align: center;
+}
